@@ -1,4 +1,4 @@
 function forLoop(array)
 {
-  for()
+  for(let i = 0;)
 }
