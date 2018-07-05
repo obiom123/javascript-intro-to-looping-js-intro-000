@@ -1,4 +1,4 @@
 function forLoop(array)
 {
-  
+  for()
 }
